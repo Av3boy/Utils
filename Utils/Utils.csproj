@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Antti Veikkolainen</Authors>
+    <PackageId>Veikkolainen.Utils</PackageId>
+    <Description>Useful function prewritten to make your development easy!</Description>
+  </PropertyGroup>
+
+</Project>
